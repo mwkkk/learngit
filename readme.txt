@@ -1,2 +1,2 @@
 Git is a system.
-Git is fr
+Git is free software distributed under the GPLi 
